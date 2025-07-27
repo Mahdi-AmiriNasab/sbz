@@ -42,13 +42,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\sbz\altium\BQ76952EVM_Altium\balancer.SchDoc
+DocumentPath=balancer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -93,23 +93,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LEQPBNAD
 
 [Document4]
-DocumentPath=BMS029B_FETs.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BEHHSHMS
-
-[Document5]
 DocumentPath=BMS029B_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -126,7 +109,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPLTMGFQ
 
-[Document6]
+[Document5]
 DocumentPath=BMS_slave.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -143,7 +126,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEKYGETK
 
-[Document7]
+[Document6]
 DocumentPath=BMS029B_Hardware.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -160,7 +143,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJIYFDMW
 
-[Document8]
+[Document7]
 DocumentPath=BMS029B.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -177,7 +160,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=BMS029B.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
