@@ -76,23 +76,6 @@ GenerateClassCluster=0
 DocumentUniqueId=DIPGKMVQ
 
 [Document3]
-DocumentPath=BMS029B_PinConfig.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LEQPBNAD
-
-[Document4]
 DocumentPath=BMS029B_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -109,7 +92,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPLTMGFQ
 
-[Document5]
+[Document4]
 DocumentPath=BMS_slave.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -126,7 +109,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEKYGETK
 
-[Document6]
+[Document5]
 DocumentPath=BMS029B_Hardware.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -143,7 +126,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJIYFDMW
 
-[Document7]
+[Document6]
 DocumentPath=BMS029B.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -160,7 +143,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=BMS029B.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1

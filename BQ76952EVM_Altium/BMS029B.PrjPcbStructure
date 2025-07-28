@@ -15,7 +15,5 @@ Record=SheetSymbol|SourceDocument=BMS029B_Monitor.SchDoc|Designator=balancer13|S
 Record=SheetSymbol|SourceDocument=BMS029B_Monitor.SchDoc|Designator=balancer14|SchDesignator=repeat(balancer, 1, 16)|FileName=balancer.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=balancer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=BMS029B_Monitor.SchDoc|Designator=balancer15|SchDesignator=repeat(balancer, 1, 16)|FileName=balancer.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=balancer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=BMS029B_Monitor.SchDoc|Designator=balancer16|SchDesignator=repeat(balancer, 1, 16)|FileName=balancer.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=balancer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=BMS029B_Monitor.SchDoc|FileName=BMS029B_FETs.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=BMS029B_Monitor.SchDoc|FileName=BMS029B_Hardware.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=BMS029B_Monitor.SchDoc|FileName=BMS029B_Interface.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=BMS029B_Monitor.SchDoc|FileName=BMS029B_PinConfig.SchDoc|SheetNumber=2
