@@ -169,6 +169,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
+DocumentPath=Fan.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FEIIULZF
+
+[Document9]
 DocumentPath=BMS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPZFYGFQ
 
-[Document9]
+[Document10]
 DocumentPath=D:\Thesis\PCB\eLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYXPGJBR
 
-[Document10]
+[Document11]
 DocumentPath=D:\Thesis\PCB\eLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEIQDLAB
 
-[Document11]
+[Document12]
 DocumentPath=D:\Thesis\PCB\SINA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=D:\Thesis\PCB\SINA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
