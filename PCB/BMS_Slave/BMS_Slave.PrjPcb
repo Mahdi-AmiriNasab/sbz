@@ -3,7 +3,7 @@ Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$RoomName
+ChannelDesignatorFormatString=$Component_$ChannelIndex
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -60,7 +60,7 @@ AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -186,6 +186,23 @@ GenerateClassCluster=0
 DocumentUniqueId=FEIIULZF
 
 [Document9]
+DocumentPath=BMS_Slavee.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VGETHQSF
+
+[Document10]
 DocumentPath=BMS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPZFYGFQ
 
-[Document10]
+[Document11]
 DocumentPath=D:\Thesis\PCB\eLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYXPGJBR
 
-[Document11]
+[Document12]
 DocumentPath=D:\Thesis\PCB\eLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEIQDLAB
 
-[Document12]
+[Document13]
 DocumentPath=D:\Thesis\PCB\SINA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=D:\Thesis\PCB\SINA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1

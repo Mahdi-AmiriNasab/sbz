@@ -1,0 +1,256 @@
+Change Component Footprint: Designator=L? Old Footprint=FP-ACT1210L-MFG New Footprint=FP-ACT1210L-MFG
+Change Component Footprint: Designator=D3 Old Footprint=ZENER New Footprint=ZENER
+Change Component Designator: OldDesignator=C25_balancer1 NewDesignator=C25_1
+Change Component Designator: OldDesignator=C25_balancer2 NewDesignator=C25_2
+Change Component Designator: OldDesignator=C25_balancer3 NewDesignator=C25_3
+Change Component Designator: OldDesignator=C25_balancer4 NewDesignator=C25_4
+Change Component Designator: OldDesignator=C25_balancer5 NewDesignator=C25_5
+Change Component Designator: OldDesignator=C25_balancer6 NewDesignator=C25_6
+Change Component Designator: OldDesignator=C25_balancer7 NewDesignator=C25_7
+Change Component Designator: OldDesignator=C25_balancer8 NewDesignator=C25_8
+Change Component Designator: OldDesignator=C25_balancer9 NewDesignator=C25_9
+Change Component Designator: OldDesignator=C25_balancer10 NewDesignator=C25_10
+Change Component Designator: OldDesignator=C25_balancer11 NewDesignator=C25_11
+Change Component Designator: OldDesignator=C25_balancer12 NewDesignator=C25_12
+Change Component Designator: OldDesignator=C25_balancer13 NewDesignator=C25_13
+Change Component Designator: OldDesignator=C25_balancer14 NewDesignator=C25_14
+Change Component Designator: OldDesignator=C25_balancer15 NewDesignator=C25_15
+Change Component Designator: OldDesignator=C25_balancer16 NewDesignator=C25_16
+Change Component Designator: OldDesignator=D6_Fan1 NewDesignator=D6_1
+Change Component Designator: OldDesignator=D6_Fan2 NewDesignator=D6_2
+Change Component Designator: OldDesignator=FN1_Fan1 NewDesignator=FN1_1
+Change Component Designator: OldDesignator=FN1_Fan2 NewDesignator=FN1_2
+Change Component Designator: OldDesignator=Q2_balancer1 NewDesignator=Q2_1
+Change Component Designator: OldDesignator=Q2_balancer2 NewDesignator=Q2_2
+Change Component Designator: OldDesignator=Q2_balancer3 NewDesignator=Q2_3
+Change Component Designator: OldDesignator=Q2_balancer4 NewDesignator=Q2_4
+Change Component Designator: OldDesignator=Q2_balancer5 NewDesignator=Q2_5
+Change Component Designator: OldDesignator=Q2_balancer6 NewDesignator=Q2_6
+Change Component Designator: OldDesignator=Q2_balancer7 NewDesignator=Q2_7
+Change Component Designator: OldDesignator=Q2_balancer8 NewDesignator=Q2_8
+Change Component Designator: OldDesignator=Q2_balancer9 NewDesignator=Q2_9
+Change Component Designator: OldDesignator=Q2_balancer10 NewDesignator=Q2_10
+Change Component Designator: OldDesignator=Q2_balancer11 NewDesignator=Q2_11
+Change Component Designator: OldDesignator=Q2_balancer12 NewDesignator=Q2_12
+Change Component Designator: OldDesignator=Q2_balancer13 NewDesignator=Q2_13
+Change Component Designator: OldDesignator=Q2_balancer14 NewDesignator=Q2_14
+Change Component Designator: OldDesignator=Q2_balancer15 NewDesignator=Q2_15
+Change Component Designator: OldDesignator=Q2_balancer16 NewDesignator=Q2_16
+Change Component Designator: OldDesignator=Q5_Fan1 NewDesignator=Q5_1
+Change Component Designator: OldDesignator=Q5_Fan2 NewDesignator=Q5_2
+Change Component Designator: OldDesignator=Q6_Fan1 NewDesignator=Q6_1
+Change Component Designator: OldDesignator=Q6_Fan2 NewDesignator=Q6_2
+Change Component Designator: OldDesignator=R40_balancer1 NewDesignator=R40_1
+Change Component Designator: OldDesignator=R40_balancer2 NewDesignator=R40_2
+Change Component Designator: OldDesignator=R40_balancer3 NewDesignator=R40_3
+Change Component Designator: OldDesignator=R40_balancer4 NewDesignator=R40_4
+Change Component Designator: OldDesignator=R40_balancer5 NewDesignator=R40_5
+Change Component Designator: OldDesignator=R40_balancer6 NewDesignator=R40_6
+Change Component Designator: OldDesignator=R40_balancer7 NewDesignator=R40_7
+Change Component Designator: OldDesignator=R40_balancer8 NewDesignator=R40_8
+Change Component Designator: OldDesignator=R40_balancer9 NewDesignator=R40_9
+Change Component Designator: OldDesignator=R40_balancer10 NewDesignator=R40_10
+Change Component Designator: OldDesignator=R40_balancer11 NewDesignator=R40_11
+Change Component Designator: OldDesignator=R40_balancer12 NewDesignator=R40_12
+Change Component Designator: OldDesignator=R40_balancer13 NewDesignator=R40_13
+Change Component Designator: OldDesignator=R40_balancer14 NewDesignator=R40_14
+Change Component Designator: OldDesignator=R40_balancer15 NewDesignator=R40_15
+Change Component Designator: OldDesignator=R40_balancer16 NewDesignator=R40_16
+Change Component Designator: OldDesignator=R41_balancer1 NewDesignator=R41_1
+Change Component Designator: OldDesignator=R41_balancer2 NewDesignator=R41_2
+Change Component Designator: OldDesignator=R41_balancer3 NewDesignator=R41_3
+Change Component Designator: OldDesignator=R41_balancer4 NewDesignator=R41_4
+Change Component Designator: OldDesignator=R41_balancer5 NewDesignator=R41_5
+Change Component Designator: OldDesignator=R41_balancer6 NewDesignator=R41_6
+Change Component Designator: OldDesignator=R41_balancer7 NewDesignator=R41_7
+Change Component Designator: OldDesignator=R41_balancer8 NewDesignator=R41_8
+Change Component Designator: OldDesignator=R41_balancer9 NewDesignator=R41_9
+Change Component Designator: OldDesignator=R41_balancer10 NewDesignator=R41_10
+Change Component Designator: OldDesignator=R41_balancer11 NewDesignator=R41_11
+Change Component Designator: OldDesignator=R41_balancer12 NewDesignator=R41_12
+Change Component Designator: OldDesignator=R41_balancer13 NewDesignator=R41_13
+Change Component Designator: OldDesignator=R41_balancer14 NewDesignator=R41_14
+Change Component Designator: OldDesignator=R41_balancer15 NewDesignator=R41_15
+Change Component Designator: OldDesignator=R41_balancer16 NewDesignator=R41_16
+Change Component Designator: OldDesignator=R42_balancer1 NewDesignator=R42_1
+Change Component Designator: OldDesignator=R42_balancer2 NewDesignator=R42_2
+Change Component Designator: OldDesignator=R42_balancer3 NewDesignator=R42_3
+Change Component Designator: OldDesignator=R42_balancer4 NewDesignator=R42_4
+Change Component Designator: OldDesignator=R42_balancer5 NewDesignator=R42_5
+Change Component Designator: OldDesignator=R42_balancer6 NewDesignator=R42_6
+Change Component Designator: OldDesignator=R42_balancer7 NewDesignator=R42_7
+Change Component Designator: OldDesignator=R42_balancer8 NewDesignator=R42_8
+Change Component Designator: OldDesignator=R42_balancer9 NewDesignator=R42_9
+Change Component Designator: OldDesignator=R42_balancer10 NewDesignator=R42_10
+Change Component Designator: OldDesignator=R42_balancer11 NewDesignator=R42_11
+Change Component Designator: OldDesignator=R42_balancer12 NewDesignator=R42_12
+Change Component Designator: OldDesignator=R42_balancer13 NewDesignator=R42_13
+Change Component Designator: OldDesignator=R42_balancer14 NewDesignator=R42_14
+Change Component Designator: OldDesignator=R42_balancer15 NewDesignator=R42_15
+Change Component Designator: OldDesignator=R42_balancer16 NewDesignator=R42_16
+Change Component Designator: OldDesignator=R43_balancer1 NewDesignator=R43_1
+Change Component Designator: OldDesignator=R43_balancer2 NewDesignator=R43_2
+Change Component Designator: OldDesignator=R43_balancer3 NewDesignator=R43_3
+Change Component Designator: OldDesignator=R43_balancer4 NewDesignator=R43_4
+Change Component Designator: OldDesignator=R43_balancer5 NewDesignator=R43_5
+Change Component Designator: OldDesignator=R43_balancer6 NewDesignator=R43_6
+Change Component Designator: OldDesignator=R43_balancer7 NewDesignator=R43_7
+Change Component Designator: OldDesignator=R43_balancer8 NewDesignator=R43_8
+Change Component Designator: OldDesignator=R43_balancer9 NewDesignator=R43_9
+Change Component Designator: OldDesignator=R43_balancer10 NewDesignator=R43_10
+Change Component Designator: OldDesignator=R43_balancer11 NewDesignator=R43_11
+Change Component Designator: OldDesignator=R43_balancer12 NewDesignator=R43_12
+Change Component Designator: OldDesignator=R43_balancer13 NewDesignator=R43_13
+Change Component Designator: OldDesignator=R43_balancer14 NewDesignator=R43_14
+Change Component Designator: OldDesignator=R43_balancer15 NewDesignator=R43_15
+Change Component Designator: OldDesignator=R43_balancer16 NewDesignator=R43_16
+Change Component Designator: OldDesignator=R44_balancer1 NewDesignator=R44_1
+Change Component Designator: OldDesignator=R44_balancer2 NewDesignator=R44_2
+Change Component Designator: OldDesignator=R44_balancer3 NewDesignator=R44_3
+Change Component Designator: OldDesignator=R44_balancer4 NewDesignator=R44_4
+Change Component Designator: OldDesignator=R44_balancer5 NewDesignator=R44_5
+Change Component Designator: OldDesignator=R44_balancer6 NewDesignator=R44_6
+Change Component Designator: OldDesignator=R44_balancer7 NewDesignator=R44_7
+Change Component Designator: OldDesignator=R44_balancer8 NewDesignator=R44_8
+Change Component Designator: OldDesignator=R44_balancer9 NewDesignator=R44_9
+Change Component Designator: OldDesignator=R44_balancer10 NewDesignator=R44_10
+Change Component Designator: OldDesignator=R44_balancer11 NewDesignator=R44_11
+Change Component Designator: OldDesignator=R44_balancer12 NewDesignator=R44_12
+Change Component Designator: OldDesignator=R44_balancer13 NewDesignator=R44_13
+Change Component Designator: OldDesignator=R44_balancer14 NewDesignator=R44_14
+Change Component Designator: OldDesignator=R44_balancer15 NewDesignator=R44_15
+Change Component Designator: OldDesignator=R44_balancer16 NewDesignator=R44_16
+Change Component Designator: OldDesignator=R45_balancer1 NewDesignator=R45_1
+Change Component Designator: OldDesignator=R45_balancer2 NewDesignator=R45_2
+Change Component Designator: OldDesignator=R45_balancer3 NewDesignator=R45_3
+Change Component Designator: OldDesignator=R45_balancer4 NewDesignator=R45_4
+Change Component Designator: OldDesignator=R45_balancer5 NewDesignator=R45_5
+Change Component Designator: OldDesignator=R45_balancer6 NewDesignator=R45_6
+Change Component Designator: OldDesignator=R45_balancer7 NewDesignator=R45_7
+Change Component Designator: OldDesignator=R45_balancer8 NewDesignator=R45_8
+Change Component Designator: OldDesignator=R45_balancer9 NewDesignator=R45_9
+Change Component Designator: OldDesignator=R45_balancer10 NewDesignator=R45_10
+Change Component Designator: OldDesignator=R45_balancer11 NewDesignator=R45_11
+Change Component Designator: OldDesignator=R45_balancer12 NewDesignator=R45_12
+Change Component Designator: OldDesignator=R45_balancer13 NewDesignator=R45_13
+Change Component Designator: OldDesignator=R45_balancer14 NewDesignator=R45_14
+Change Component Designator: OldDesignator=R45_balancer15 NewDesignator=R45_15
+Change Component Designator: OldDesignator=R45_balancer16 NewDesignator=R45_16
+Change Component Designator: OldDesignator=R46_balancer1 NewDesignator=R46_1
+Change Component Designator: OldDesignator=R46_balancer2 NewDesignator=R46_2
+Change Component Designator: OldDesignator=R46_balancer3 NewDesignator=R46_3
+Change Component Designator: OldDesignator=R46_balancer4 NewDesignator=R46_4
+Change Component Designator: OldDesignator=R46_balancer5 NewDesignator=R46_5
+Change Component Designator: OldDesignator=R46_balancer6 NewDesignator=R46_6
+Change Component Designator: OldDesignator=R46_balancer7 NewDesignator=R46_7
+Change Component Designator: OldDesignator=R46_balancer8 NewDesignator=R46_8
+Change Component Designator: OldDesignator=R46_balancer9 NewDesignator=R46_9
+Change Component Designator: OldDesignator=R46_balancer10 NewDesignator=R46_10
+Change Component Designator: OldDesignator=R46_balancer11 NewDesignator=R46_11
+Change Component Designator: OldDesignator=R46_balancer12 NewDesignator=R46_12
+Change Component Designator: OldDesignator=R46_balancer13 NewDesignator=R46_13
+Change Component Designator: OldDesignator=R46_balancer14 NewDesignator=R46_14
+Change Component Designator: OldDesignator=R46_balancer15 NewDesignator=R46_15
+Change Component Designator: OldDesignator=R46_balancer16 NewDesignator=R46_16
+Change Component Designator: OldDesignator=R47_balancer1 NewDesignator=R47_1
+Change Component Designator: OldDesignator=R47_balancer2 NewDesignator=R47_2
+Change Component Designator: OldDesignator=R47_balancer3 NewDesignator=R47_3
+Change Component Designator: OldDesignator=R47_balancer4 NewDesignator=R47_4
+Change Component Designator: OldDesignator=R47_balancer5 NewDesignator=R47_5
+Change Component Designator: OldDesignator=R47_balancer6 NewDesignator=R47_6
+Change Component Designator: OldDesignator=R47_balancer7 NewDesignator=R47_7
+Change Component Designator: OldDesignator=R47_balancer8 NewDesignator=R47_8
+Change Component Designator: OldDesignator=R47_balancer9 NewDesignator=R47_9
+Change Component Designator: OldDesignator=R47_balancer10 NewDesignator=R47_10
+Change Component Designator: OldDesignator=R47_balancer11 NewDesignator=R47_11
+Change Component Designator: OldDesignator=R47_balancer12 NewDesignator=R47_12
+Change Component Designator: OldDesignator=R47_balancer13 NewDesignator=R47_13
+Change Component Designator: OldDesignator=R47_balancer14 NewDesignator=R47_14
+Change Component Designator: OldDesignator=R47_balancer15 NewDesignator=R47_15
+Change Component Designator: OldDesignator=R47_balancer16 NewDesignator=R47_16
+Change Component Designator: OldDesignator=R57_Fan1 NewDesignator=R57_1
+Change Component Designator: OldDesignator=R57_Fan2 NewDesignator=R57_2
+Change Component Designator: OldDesignator=R58_Fan1 NewDesignator=R58_1
+Change Component Designator: OldDesignator=R58_Fan2 NewDesignator=R58_2
+Change Component Designator: OldDesignator=R59_Fan1 NewDesignator=R59_1
+Change Component Designator: OldDesignator=R59_Fan2 NewDesignator=R59_2
+Change Component Designator: OldDesignator=R61_Fan1 NewDesignator=R61_1
+Change Component Designator: OldDesignator=R61_Fan2 NewDesignator=R61_2
+Change Component Designator: OldDesignator=U8_Fan1 NewDesignator=U8_1
+Change Component Designator: OldDesignator=U8_Fan2 NewDesignator=U8_2
+Change Net Name : Old Net Name=NetD6_Fan1_1 New Net Name=NetD6_1_1
+Change Net Name : Old Net Name=NetD6_Fan2_1 New Net Name=NetD6_2_1
+Change Net Name : Old Net Name=NetQ2_balancer1_1 New Net Name=NetQ2_1_1
+Change Net Name : Old Net Name=NetQ2_balancer1_3 New Net Name=NetQ2_1_3
+Change Net Name : Old Net Name=NetQ2_balancer2_1 New Net Name=NetQ2_2_1
+Change Net Name : Old Net Name=NetQ2_balancer2_3 New Net Name=NetQ2_2_3
+Change Net Name : Old Net Name=NetQ2_balancer3_1 New Net Name=NetQ2_3_1
+Change Net Name : Old Net Name=NetQ2_balancer3_3 New Net Name=NetQ2_3_3
+Change Net Name : Old Net Name=NetQ2_balancer4_1 New Net Name=NetQ2_4_1
+Change Net Name : Old Net Name=NetQ2_balancer4_3 New Net Name=NetQ2_4_3
+Change Net Name : Old Net Name=NetQ2_balancer5_1 New Net Name=NetQ2_5_1
+Change Net Name : Old Net Name=NetQ2_balancer5_3 New Net Name=NetQ2_5_3
+Change Net Name : Old Net Name=NetQ2_balancer6_1 New Net Name=NetQ2_6_1
+Change Net Name : Old Net Name=NetQ2_balancer6_3 New Net Name=NetQ2_6_3
+Change Net Name : Old Net Name=NetQ2_balancer7_1 New Net Name=NetQ2_7_1
+Change Net Name : Old Net Name=NetQ2_balancer7_3 New Net Name=NetQ2_7_3
+Change Net Name : Old Net Name=NetQ2_balancer8_1 New Net Name=NetQ2_8_1
+Change Net Name : Old Net Name=NetQ2_balancer8_3 New Net Name=NetQ2_8_3
+Change Net Name : Old Net Name=NetQ2_balancer9_1 New Net Name=NetQ2_9_1
+Change Net Name : Old Net Name=NetQ2_balancer9_3 New Net Name=NetQ2_9_3
+Change Net Name : Old Net Name=NetQ2_balancer10_1 New Net Name=NetQ2_10_1
+Change Net Name : Old Net Name=NetQ2_balancer10_3 New Net Name=NetQ2_10_3
+Change Net Name : Old Net Name=NetQ2_balancer11_1 New Net Name=NetQ2_11_1
+Change Net Name : Old Net Name=NetQ2_balancer11_3 New Net Name=NetQ2_11_3
+Change Net Name : Old Net Name=NetQ2_balancer12_1 New Net Name=NetQ2_12_1
+Change Net Name : Old Net Name=NetQ2_balancer12_3 New Net Name=NetQ2_12_3
+Change Net Name : Old Net Name=NetQ2_balancer13_1 New Net Name=NetQ2_13_1
+Change Net Name : Old Net Name=NetQ2_balancer13_3 New Net Name=NetQ2_13_3
+Change Net Name : Old Net Name=NetQ2_balancer14_1 New Net Name=NetQ2_14_1
+Change Net Name : Old Net Name=NetQ2_balancer14_3 New Net Name=NetQ2_14_3
+Change Net Name : Old Net Name=NetQ2_balancer15_1 New Net Name=NetQ2_15_1
+Change Net Name : Old Net Name=NetQ2_balancer15_3 New Net Name=NetQ2_15_3
+Change Net Name : Old Net Name=NetQ2_balancer16_1 New Net Name=NetQ2_16_1
+Change Net Name : Old Net Name=NetQ2_balancer16_3 New Net Name=NetQ2_16_3
+Change Net Name : Old Net Name=NetQ5_Fan1_1 New Net Name=NetQ5_1_1
+Change Net Name : Old Net Name=NetQ5_Fan1_3 New Net Name=NetQ5_1_3
+Change Net Name : Old Net Name=NetQ5_Fan2_1 New Net Name=NetQ5_2_1
+Change Net Name : Old Net Name=NetQ5_Fan2_3 New Net Name=NetQ5_2_3
+Change Net Name : Old Net Name=NetQ6_Fan1_1 New Net Name=NetQ6_1_1
+Change Net Name : Old Net Name=NetQ6_Fan2_1 New Net Name=NetQ6_2_1
+Change Net Name : Old Net Name=NetR41_balancer1_1 New Net Name=NetR41_1_1
+Change Net Name : Old Net Name=NetR41_balancer2_1 New Net Name=NetR41_2_1
+Change Net Name : Old Net Name=NetR41_balancer3_1 New Net Name=NetR41_3_1
+Change Net Name : Old Net Name=NetR41_balancer4_1 New Net Name=NetR41_4_1
+Change Net Name : Old Net Name=NetR41_balancer5_1 New Net Name=NetR41_5_1
+Change Net Name : Old Net Name=NetR41_balancer6_1 New Net Name=NetR41_6_1
+Change Net Name : Old Net Name=NetR41_balancer7_1 New Net Name=NetR41_7_1
+Change Net Name : Old Net Name=NetR41_balancer8_1 New Net Name=NetR41_8_1
+Change Net Name : Old Net Name=NetR41_balancer9_1 New Net Name=NetR41_9_1
+Change Net Name : Old Net Name=NetR41_balancer10_1 New Net Name=NetR41_10_1
+Change Net Name : Old Net Name=NetR41_balancer11_1 New Net Name=NetR41_11_1
+Change Net Name : Old Net Name=NetR41_balancer12_1 New Net Name=NetR41_12_1
+Change Net Name : Old Net Name=NetR41_balancer13_1 New Net Name=NetR41_13_1
+Change Net Name : Old Net Name=NetR41_balancer14_1 New Net Name=NetR41_14_1
+Change Net Name : Old Net Name=NetR41_balancer15_1 New Net Name=NetR41_15_1
+Change Net Name : Old Net Name=NetR41_balancer16_1 New Net Name=NetR41_16_1
+Change Net Name : Old Net Name=NetR42_balancer1_1 New Net Name=NetR42_1_1
+Change Net Name : Old Net Name=NetR42_balancer2_1 New Net Name=NetR42_2_1
+Change Net Name : Old Net Name=NetR42_balancer3_1 New Net Name=NetR42_3_1
+Change Net Name : Old Net Name=NetR42_balancer4_1 New Net Name=NetR42_4_1
+Change Net Name : Old Net Name=NetR42_balancer5_1 New Net Name=NetR42_5_1
+Change Net Name : Old Net Name=NetR42_balancer6_1 New Net Name=NetR42_6_1
+Change Net Name : Old Net Name=NetR42_balancer7_1 New Net Name=NetR42_7_1
+Change Net Name : Old Net Name=NetR42_balancer8_1 New Net Name=NetR42_8_1
+Change Net Name : Old Net Name=NetR42_balancer9_1 New Net Name=NetR42_9_1
+Change Net Name : Old Net Name=NetR42_balancer10_1 New Net Name=NetR42_10_1
+Change Net Name : Old Net Name=NetR42_balancer11_1 New Net Name=NetR42_11_1
+Change Net Name : Old Net Name=NetR42_balancer12_1 New Net Name=NetR42_12_1
+Change Net Name : Old Net Name=NetR42_balancer13_1 New Net Name=NetR42_13_1
+Change Net Name : Old Net Name=NetR42_balancer14_1 New Net Name=NetR42_14_1
+Change Net Name : Old Net Name=NetR42_balancer15_1 New Net Name=NetR42_15_1
+Change Net Name : Old Net Name=NetR42_balancer16_1 New Net Name=NetR42_16_1
+Change Net Name : Old Net Name=NetR58_Fan1_1 New Net Name=NetR58_1_1
+Change Net Name : Old Net Name=NetR58_Fan2_1 New Net Name=NetR58_2_1
+Change Net Name : Old Net Name=NetR59_Fan1_1 New Net Name=NetR59_1_1
+Change Net Name : Old Net Name=NetR59_Fan2_1 New Net Name=NetR59_2_1

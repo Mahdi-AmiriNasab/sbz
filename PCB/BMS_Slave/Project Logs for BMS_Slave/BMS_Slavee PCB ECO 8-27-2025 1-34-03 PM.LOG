@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=L? Old Footprint=FP-ACT1210L-MFG New Footprint=FP-ACT1210L-MFG
+Change Component Footprint: Designator=D3 Old Footprint=ZENER New Footprint=ZENER
+Added Room: Name=balancer1
+Added Room: Name=balancer2
+Added Room: Name=balancer3
+Added Room: Name=balancer4
+Added Room: Name=balancer5
+Added Room: Name=balancer6
+Added Room: Name=balancer7
+Added Room: Name=balancer8
+Added Room: Name=balancer9
+Added Room: Name=balancer10
+Added Room: Name=balancer11
+Added Room: Name=balancer12
+Added Room: Name=balancer13
+Added Room: Name=balancer14
+Added Room: Name=balancer15
+Added Room: Name=balancer16
