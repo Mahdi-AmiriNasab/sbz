@@ -1,0 +1,39 @@
+Added Component: Designator=J2(pheonix_7)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "CONN_TB8"; VariantName = "[No Variations]"
+Added Component: Designator=J3(pheonix_10)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "CONN_TB8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+Cell_10 Pin=J2-1
+Added Pin To Net: NetName=+Cell_11 Pin=J2-2
+Added Pin To Net: NetName=+Cell_12 Pin=J2-3
+Added Pin To Net: NetName=+Cell_13 Pin=J2-4
+Added Pin To Net: NetName=+Cell_14 Pin=J2-5
+Added Pin To Net: NetName=+Cell_15 Pin=J2-6
+Added Pin To Net: NetName=+Cell_16 Pin=J2-7
+Added Pin To Net: NetName=-Cell_1 Pin=J3-1
+Added Pin To Net: NetName=+Cell_1 Pin=J3-2
+Added Pin To Net: NetName=+Cell_2 Pin=J3-3
+Added Pin To Net: NetName=+Cell_3 Pin=J3-4
+Added Pin To Net: NetName=+Cell_4 Pin=J3-5
+Added Pin To Net: NetName=+Cell_5 Pin=J3-6
+Added Pin To Net: NetName=+Cell_6 Pin=J3-7
+Added Pin To Net: NetName=+Cell_7 Pin=J3-8
+Added Pin To Net: NetName=+Cell_8 Pin=J3-9
+Added Pin To Net: NetName=+Cell_9 Pin=J3-10
+Added Member To Class: ClassName=U_BMS Member=Component J2 CONN_TB8
+Added Member To Class: ClassName=U_BMS Member=Component J3 CONN_TB8
