@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=H2 Old DesignItemId=ATX_HDR_2X03 New DesignItemId=HDR_mini_2 × 3
+Change Component Footprint: Designator=H2 Old Footprint=miniATX 2 × 7 New Footprint=miniATX 2 × 3
+Change Component Comment : Designator=H2 Old Comment=MHDR_2X07 New Comment=MHDR_2X03

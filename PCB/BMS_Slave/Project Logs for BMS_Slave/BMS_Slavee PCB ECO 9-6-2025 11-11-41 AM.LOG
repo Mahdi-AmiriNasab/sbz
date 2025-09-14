@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=12V Pin=CNT-1
+Removed Pin From Net: NetName=12V Pin=H1-1
+Removed Pin From Net: NetName=12V Pin=H1-2
+Removed Pin From Net: NetName=12V Pin=H1-3
+Removed Pin From Net: NetName=CAN_N Pin=H1-4
+Removed Pin From Net: NetName=Fan_Signal_1 Pin=H1-5
+Removed Pin From Net: NetName=Fan_Signal_2 Pin=H1-6
+Removed Pin From Net: NetName=CAN_P Pin=H1-10
+Removed Pin From Net: NetName=GND-ISO Pin=H1-12
+Removed Pin From Net: NetName=GND-ISO Pin=H1-13
+Removed Pin From Net: NetName=GND-ISO Pin=H1-14
+Removed Member From Class: ClassName=U_relay and contactor Member=CNT
+Removed Member From Class: ClassName=U_Communication Member=H1
+Added Component: Designator=Contactor(LED-RIGHT)
+Added Component: Designator=H2(miniATX 2 × 7)
+Added Component: Designator=H3_1(HEADER1*3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=H3_2(HEADER1*3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=Contactor-1
+Added Pin To Net: NetName=12V Pin=H2-1
+Added Pin To Net: NetName=12V Pin=H2-2
+Added Pin To Net: NetName=CAN_N Pin=H2-3
+Added Pin To Net: NetName=CAN_P Pin=H2-4
+Added Pin To Net: NetName=GND-ISO Pin=H2-5
+Added Pin To Net: NetName=GND-ISO Pin=H2-6
+Added Pin To Net: NetName=12V Pin=H3_1-1
+Added Pin To Net: NetName=Fan_Signal_1 Pin=H3_1-2
+Added Pin To Net: NetName=GND-ISO Pin=H3_1-3
+Added Pin To Net: NetName=12V Pin=H3_2-1
+Added Pin To Net: NetName=Fan_Signal_2 Pin=H3_2-2
+Added Pin To Net: NetName=GND-ISO Pin=H3_2-3
+Change Net Name : Old Net Name=Fan_Signal_1 New Net Name=NetD6_1_1
+Change Net Name : Old Net Name=Fan_Signal_2 New Net Name=NetD6_2_1
+Added Pin To Net: NetName=NetContactor_2 Pin=Contactor-2
+Added Pin To Net: NetName=NetContactor_2 Pin=D5-1
+Added Pin To Net: NetName=NetContactor_2 Pin=Q3-2
+Added Net: Name=NetContactor_2
+Added Member To Class: ClassName=U_relay and contactor Member=Component Contactor unknown
+Added Member To Class: ClassName=U_Communication Member=Component H2 MHDR_2X07
+Added Member To Class: ClassName=Fan1 Member=Component H3_1 (H3) Fan
+Added Member To Class: ClassName=Fan2 Member=Component H3_2 (H3) Fan

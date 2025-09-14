@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=12V Pin=Contactor-1
+Added Pin To Net: NetName=12V Pin=Contactor-2
+Added Pin To Net: NetName=NetContactor_1 Pin=Contactor-1
+Added Pin To Net: NetName=NetContactor_1 Pin=D5-1
+Added Pin To Net: NetName=NetContactor_1 Pin=Q3-2
+Added Net: Name=NetContactor_1
