@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC27_2 Pin=D7-1
+Removed Pin From Net: NetName=12V Pin=D7-2
+Change Component Footprint: Designator=D7 Old Footprint=1N4007 New Footprint=SS36
+Added Pin To Net: NetName=12V Pin=D7-1
+Added Pin To Net: NetName=NetC27_2 Pin=D7-2
+Add Net: Net with name "SW1" already exists
+Add Net: Net with name "SW2" already exists
+Add Net: Net with name "SW3" already exists
+Add Net: Net with name "SW4" already exists

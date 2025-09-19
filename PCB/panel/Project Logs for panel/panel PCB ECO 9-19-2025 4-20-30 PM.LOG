@@ -1,0 +1,38 @@
+Add component: Footprint Not Found miniATX 2 × 7
+Added Component: Designator=H2(GX16-5PIN)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component: Footprint Not Found led
+Add component: Footprint Not Found led
+Add component: Footprint Not Found led
+Add component: Footprint Not Found led
+Add component: Footprint Not Found RESC0603
+Add component: Footprint Not Found RESC0603
+Add component: Footprint Not Found RESC0603
+Add component: Footprint Not Found RESC0603
+Add component: Footprint Not Found SW4_1571983_4P_TEC
+Added Net: Name=3.3V
+Added Pin To Net: NetName=12V Pin=H2-1
+Added Net: Name=12V
+Added Pin To Net: NetName=CAN_N Pin=H2-4
+Added Net: Name=CAN_N
+Added Pin To Net: NetName=CAN_P Pin=H2-3
+Added Net: Name=CAN_P
+Added Pin To Net: NetName=GND-ISO Pin=H2-2
+Added Net: Name=GND-ISO
+Added Net: Name=GND
+Added Net: Name=NetLED1_1
+Added Net: Name=NetLED2_1
+Added Net: Name=NetLED3_1
+Added Net: Name=NetLED4_1
+Added Net: Name=SW1
+Added Net: Name=SW2
+Added Net: Name=SW3
+Added Net: Name=SW4
+Added Class: Name=panel
+Added Differential Pair: Name=CAN
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

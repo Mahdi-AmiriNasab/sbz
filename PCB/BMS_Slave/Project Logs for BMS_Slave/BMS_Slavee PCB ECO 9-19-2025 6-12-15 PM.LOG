@@ -1,0 +1,614 @@
+Removed Pin From Net: NetName=12V Pin=C27-2
+Removed Pin From Net: NetName=12V Pin=C29-2
+Removed Pin From Net: NetName=SW1 Pin=H2-5
+Removed Pin From Net: NetName=SW2 Pin=H2-6
+Removed Pin From Net: NetName=SW3 Pin=H2-12
+Removed Pin From Net: NetName=SW4 Pin=H2-13
+Removed Pin From Net: NetName=3.3V Pin=U3-2
+Removed Pin From Net: NetName=VCC-CAN Pin=U4-2
+Removed Pin From Net: NetName=12V Pin=U4-3
+Change Component Comment : Designator=R41_1 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_2 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_3 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_4 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_5 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_6 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_7 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_8 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_9 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_10 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_11 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_12 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_13 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_14 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_15 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R41_16 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_1 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_2 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_3 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_4 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_5 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_6 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_7 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_8 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_9 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_10 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_11 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_12 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_13 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_14 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_15 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R42_16 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_1 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_2 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_3 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_4 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_5 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_6 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_7 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_8 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_9 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_10 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_11 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_12 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_13 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_14 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_15 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R43_16 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_1 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_2 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_3 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_4 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_5 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_6 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_7 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_8 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_9 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_10 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_11 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_12 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_13 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_14 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_15 Old Comment=3.3 New Comment=13.2
+Change Component Comment : Designator=R44_16 Old Comment=3.3 New Comment=13.2
+Change component parameters: Designator = "R41_1" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\1UQESDFVL\HRYDSASE" ("\ASFAODSL\1UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_2" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\2UQESDFVL\HRYDSASE" ("\ASFAODSL\2UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_3" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\3UQESDFVL\HRYDSASE" ("\ASFAODSL\3UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_4" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\4UQESDFVL\HRYDSASE" ("\ASFAODSL\4UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_5" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\5UQESDFVL\HRYDSASE" ("\ASFAODSL\5UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_6" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\6UQESDFVL\HRYDSASE" ("\ASFAODSL\6UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_7" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\7UQESDFVL\HRYDSASE" ("\ASFAODSL\7UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_8" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\8UQESDFVL\HRYDSASE" ("\ASFAODSL\8UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_9" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\9UQESDFVL\HRYDSASE" ("\ASFAODSL\9UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_10" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\10UQESDFVL\HRYDSASE" ("\ASFAODSL\10UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_11" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\11UQESDFVL\HRYDSASE" ("\ASFAODSL\11UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_12" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\12UQESDFVL\HRYDSASE" ("\ASFAODSL\12UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_13" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\13UQESDFVL\HRYDSASE" ("\ASFAODSL\13UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_14" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\14UQESDFVL\HRYDSASE" ("\ASFAODSL\14UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_15" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\15UQESDFVL\HRYDSASE" ("\ASFAODSL\15UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41_16" ("R41"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\16UQESDFVL\HRYDSASE" ("\ASFAODSL\16UQESDFVL\HRYDSASE")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_1" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\1UQESDFVL\HDWWPEDD" ("\ASFAODSL\1UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_2" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\2UQESDFVL\HDWWPEDD" ("\ASFAODSL\2UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_3" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\3UQESDFVL\HDWWPEDD" ("\ASFAODSL\3UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_4" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\4UQESDFVL\HDWWPEDD" ("\ASFAODSL\4UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_5" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\5UQESDFVL\HDWWPEDD" ("\ASFAODSL\5UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_6" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\6UQESDFVL\HDWWPEDD" ("\ASFAODSL\6UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_7" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\7UQESDFVL\HDWWPEDD" ("\ASFAODSL\7UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_8" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\8UQESDFVL\HDWWPEDD" ("\ASFAODSL\8UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_9" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\9UQESDFVL\HDWWPEDD" ("\ASFAODSL\9UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_10" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\10UQESDFVL\HDWWPEDD" ("\ASFAODSL\10UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_11" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\11UQESDFVL\HDWWPEDD" ("\ASFAODSL\11UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_12" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\12UQESDFVL\HDWWPEDD" ("\ASFAODSL\12UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_13" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\13UQESDFVL\HDWWPEDD" ("\ASFAODSL\13UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_14" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\14UQESDFVL\HDWWPEDD" ("\ASFAODSL\14UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_15" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\15UQESDFVL\HDWWPEDD" ("\ASFAODSL\15UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42_16" ("R42"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\16UQESDFVL\HDWWPEDD" ("\ASFAODSL\16UQESDFVL\HDWWPEDD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_1" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\1UQESDFVL\IBWXICBD" ("\ASFAODSL\1UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_2" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\2UQESDFVL\IBWXICBD" ("\ASFAODSL\2UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_3" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\3UQESDFVL\IBWXICBD" ("\ASFAODSL\3UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_4" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\4UQESDFVL\IBWXICBD" ("\ASFAODSL\4UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_5" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\5UQESDFVL\IBWXICBD" ("\ASFAODSL\5UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_6" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\6UQESDFVL\IBWXICBD" ("\ASFAODSL\6UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_7" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\7UQESDFVL\IBWXICBD" ("\ASFAODSL\7UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_8" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\8UQESDFVL\IBWXICBD" ("\ASFAODSL\8UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_9" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\9UQESDFVL\IBWXICBD" ("\ASFAODSL\9UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_10" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\10UQESDFVL\IBWXICBD" ("\ASFAODSL\10UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_11" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\11UQESDFVL\IBWXICBD" ("\ASFAODSL\11UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_12" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\12UQESDFVL\IBWXICBD" ("\ASFAODSL\12UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_13" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\13UQESDFVL\IBWXICBD" ("\ASFAODSL\13UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_14" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\14UQESDFVL\IBWXICBD" ("\ASFAODSL\14UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_15" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\15UQESDFVL\IBWXICBD" ("\ASFAODSL\15UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43_16" ("R43"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\16UQESDFVL\IBWXICBD" ("\ASFAODSL\16UQESDFVL\IBWXICBD")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_1" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\1UQESDFVL\UXZVRBKR" ("\ASFAODSL\1UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_2" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\2UQESDFVL\UXZVRBKR" ("\ASFAODSL\2UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_3" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\3UQESDFVL\UXZVRBKR" ("\ASFAODSL\3UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_4" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\4UQESDFVL\UXZVRBKR" ("\ASFAODSL\4UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_5" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\5UQESDFVL\UXZVRBKR" ("\ASFAODSL\5UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_6" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\6UQESDFVL\UXZVRBKR" ("\ASFAODSL\6UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_7" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\7UQESDFVL\UXZVRBKR" ("\ASFAODSL\7UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_8" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\8UQESDFVL\UXZVRBKR" ("\ASFAODSL\8UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_9" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\9UQESDFVL\UXZVRBKR" ("\ASFAODSL\9UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_10" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\10UQESDFVL\UXZVRBKR" ("\ASFAODSL\10UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_11" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\11UQESDFVL\UXZVRBKR" ("\ASFAODSL\11UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_12" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\12UQESDFVL\UXZVRBKR" ("\ASFAODSL\12UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_13" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\13UQESDFVL\UXZVRBKR" ("\ASFAODSL\13UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_14" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\14UQESDFVL\UXZVRBKR" ("\ASFAODSL\14UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_15" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\15UQESDFVL\UXZVRBKR" ("\ASFAODSL\15UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44_16" ("R44"); Footprint = "RES2512"; UniqueID = "\ASFAODSL\16UQESDFVL\UXZVRBKR" ("\ASFAODSL\16UQESDFVL\UXZVRBKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "13.2"; VariantName = "[No Variations]"
+Added Component: Designator=D7(1N4007)
+Added Component: Designator=R1(RES0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R60(RES0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R62(RES0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=SWL1(SW4_1571983_4P_TEC)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1571983-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=D7-2
+Added Pin To Net: NetName=VCC-CAN Pin=R1-2
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=SW4 Pin=R3-1
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Added Pin To Net: NetName=SW3 Pin=R4-1
+Added Pin To Net: NetName=3.3V Pin=R4-2
+Added Pin To Net: NetName=SW2 Pin=R60-1
+Added Pin To Net: NetName=3.3V Pin=R60-2
+Added Pin To Net: NetName=SW1 Pin=R62-1
+Added Pin To Net: NetName=3.3V Pin=R62-2
+Added Pin To Net: NetName=GND Pin=SWL1-1
+Added Pin To Net: NetName=GND Pin=SWL1-2
+Added Pin To Net: NetName=GND Pin=SWL1-3
+Added Pin To Net: NetName=GND Pin=SWL1-4
+Added Pin To Net: NetName=SW1 Pin=SWL1-5
+Added Pin To Net: NetName=SW2 Pin=SWL1-6
+Added Pin To Net: NetName=SW3 Pin=SWL1-7
+Added Pin To Net: NetName=SW4 Pin=SWL1-8
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=C29-2
+Added Pin To Net: NetName=NetC27_2 Pin=D7-1
+Added Pin To Net: NetName=NetC27_2 Pin=U4-3
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U4-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U3-2
+Added Net: Name=NetR2_1
+Add Net: Net with name "SW1" already exists
+Add Net: Net with name "SW2" already exists
+Add Net: Net with name "SW3" already exists
+Add Net: Net with name "SW4" already exists
+Added Member To Class: ClassName=U_Communication Member=Component D7 M7
+Added Member To Class: ClassName=U_Communication Member=Component R1 0
+Added Member To Class: ClassName=U_BMS Member=Component R2 0
+Added Member To Class: ClassName=U_MCU Member=Component R3 10K
+Added Member To Class: ClassName=U_MCU Member=Component R4 10K
+Added Member To Class: ClassName=U_MCU Member=Component R60 10K
+Added Member To Class: ClassName=U_MCU Member=Component R62 10K
+Added Member To Class: ClassName=U_MCU Member=Component SWL1 1571983-4
