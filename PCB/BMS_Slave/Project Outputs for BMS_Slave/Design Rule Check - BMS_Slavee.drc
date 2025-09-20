@@ -1,0 +1,120 @@
+Protel Design System Design Rule Check
+PCB File : E:\sbz\PCB\BMS_Slave\BMS_Slavee.PcbDoc
+Date     : 9/20/2025
+Time     : 3:16:12 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetD6_1_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetContactor_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetD6_2_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('GND-ISO'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('12V'))
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.5mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.003mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.003mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.001mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room balancer1 (Bounding Region = (38.608mm, 179.705mm, 60.198mm, 197.231mm) (InComponentClass('balancer1'))
+Rule Violations :0
+
+Processing Rule : Room Fan2 (Bounding Region = (108.839mm, 207.645mm, 160.147mm, 223.069mm) (InComponentClass('Fan2'))
+Rule Violations :0
+
+Processing Rule : Room Fan1 (Bounding Region = (161.29mm, 207.772mm, 212.598mm, 223.196mm) (InComponentClass('Fan1'))
+Rule Violations :0
+
+Processing Rule : Room balancer13 (Bounding Region = (104.408mm, 284.861mm, 125.998mm, 302.387mm) (InComponentClass('balancer13'))
+Rule Violations :0
+
+Processing Rule : Room balancer14 (Bounding Region = (82.39mm, 284.861mm, 103.98mm, 302.387mm) (InComponentClass('balancer14'))
+Rule Violations :0
+
+Processing Rule : Room balancer15 (Bounding Region = (60.372mm, 284.861mm, 81.962mm, 302.387mm) (InComponentClass('balancer15'))
+Rule Violations :0
+
+Processing Rule : Room balancer12 (Bounding Region = (126.426mm, 284.861mm, 148.016mm, 302.387mm) (InComponentClass('balancer12'))
+Rule Violations :0
+
+Processing Rule : Room balancer9 (Bounding Region = (192.48mm, 284.861mm, 214.07mm, 302.387mm) (InComponentClass('balancer9'))
+Rule Violations :0
+
+Processing Rule : Room balancer10 (Bounding Region = (170.462mm, 284.861mm, 192.052mm, 302.387mm) (InComponentClass('balancer10'))
+Rule Violations :0
+
+Processing Rule : Room balancer11 (Bounding Region = (148.444mm, 284.861mm, 170.034mm, 302.387mm) (InComponentClass('balancer11'))
+Rule Violations :0
+
+Processing Rule : Room balancer16 (Bounding Region = (38.354mm, 284.861mm, 59.944mm, 302.387mm) (InComponentClass('balancer16'))
+Rule Violations :0
+
+Processing Rule : Room balancer6 (Bounding Region = (148.513mm, 179.705mm, 170.103mm, 197.231mm) (InComponentClass('balancer6'))
+Rule Violations :0
+
+Processing Rule : Room balancer5 (Bounding Region = (126.532mm, 179.705mm, 148.122mm, 197.231mm) (InComponentClass('balancer5'))
+Rule Violations :0
+
+Processing Rule : Room balancer8 (Bounding Region = (192.475mm, 179.705mm, 214.065mm, 197.231mm) (InComponentClass('balancer8'))
+Rule Violations :0
+
+Processing Rule : Room balancer7 (Bounding Region = (170.494mm, 179.705mm, 192.084mm, 197.231mm) (InComponentClass('balancer7'))
+Rule Violations :0
+
+Processing Rule : Room balancer4 (Bounding Region = (104.551mm, 179.705mm, 126.141mm, 197.231mm) (InComponentClass('balancer4'))
+Rule Violations :0
+
+Processing Rule : Room balancer2 (Bounding Region = (60.589mm, 179.705mm, 82.179mm, 197.231mm) (InComponentClass('balancer2'))
+Rule Violations :0
+
+Processing Rule : Room balancer3 (Bounding Region = (82.57mm, 179.705mm, 104.16mm, 197.231mm) (InComponentClass('balancer3'))
+Rule Violations :0
+
+Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All) 
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00
