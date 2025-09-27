@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=12V Pin=Z1-1
+Removed Pin From Net: NetName=GND-ISO Pin=Z1-2
+Removed Member From Class: ClassName=U_Communication Member=Z1
+Change Component Comment : Designator=D4 Old Comment=PSM712-TVS New Comment=ESDCAN01-2BLY
+Added Component: Designator=D8(SMBJSeries_LTF-M)
+Added Pin To Net: NetName=12V Pin=D8-1
+Added Pin To Net: NetName=GND-ISO Pin=D8-2
+Added Member To Class: ClassName=U_Communication Member=Component D8 SMBJ14ALK

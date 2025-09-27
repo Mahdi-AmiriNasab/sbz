@@ -1,0 +1,4 @@
+Added Component: Designator=D8(SMBJSeries_LTF-M)
+Added Pin To Net: NetName=12V Pin=D8-1
+Added Pin To Net: NetName=GND-ISO Pin=D8-2
+Added Member To Class: ClassName=U_Communication Member=Component D8 SMBJ14ALK
