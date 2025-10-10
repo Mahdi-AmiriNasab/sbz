@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5.4V Pin=Q1-2
+Removed Pin From Net: NetName=NetC15_2 Pin=Q1-3
+Change Component Comment : Designator=Q1 Old Comment=NPN transistor New Comment=MJD31CQ
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "dpak"; UniqueID = "\ASFAODSL\IDDUKBQJ" ("\ASFAODSL\IDDUKBQJ")
+Added Pin To Net: NetName=NetC15_2 Pin=Q1-2
+Added Pin To Net: NetName=5.4V Pin=Q1-3

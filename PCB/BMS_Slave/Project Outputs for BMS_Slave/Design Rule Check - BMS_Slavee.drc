@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\SARBAZI\PCB\sbz\PCB\BMS_Slave\BMS_Slavee.PcbDoc
-Date     : 9/26/2025
-Time     : 7:47:37 PM
+Date     : 10/10/2025
+Time     : 5:01:07 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -15,40 +15,22 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetR30_1'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('GND-ISO'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetR31_1'))
-Rule Violations :0
-
 Processing Rule : Width Constraint (Min=0.254mm) (Max=1mm) (Preferred=0.3mm) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('5.4V'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('12V'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetR2_1'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetC15_2'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetC13_2'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetD6_2_1'))
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetD6_1_1'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetContactor_1'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetD6_1_1'))
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('NetD6_2_1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('GND-ISO'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('12V'))
 Rule Violations :0
 
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
@@ -132,12 +114,7 @@ Rule Violations :0
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
-Waived Violations Of Rule : Silk To Solder Mask (Clearance=0.003mm) (IsPad),(All)
-   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.003mm) Between Area Fill (172.269mm,73.489mm) (173.082mm,74.289mm) on Top Overlay And Pad D8-1(174.371mm,73.66mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]Waived by  at 9/26/2025 7:42:10 PM
-   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.003mm) Between Area Fill (175.659mm,73.488mm) (176.472mm,74.29mm) on Top Overlay And Pad D8-1(174.371mm,73.66mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]Waived by  at 9/26/2025 7:42:19 PM
-Waived Violations :2
-
 
 Violations Detected : 0
-Waived Violations : 2
+Waived Violations : 0
 Time Elapsed        : 00:00:01

@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=5.4V Pin=Q1-3
+Removed Pin From Net: NetName=REGIN Pin=R63-1
+Removed Pin From Net: NetName=5.4V Pin=R63-2
+Change Footprint: Footprint Not Found RESC0603
+Change Component Comment : Designator=R63 Old Comment=0 New Comment=100K
+Change component parameters: Designator = "R63" ("R63"); Footprint = "RES0603"; UniqueID = "\ASFAODSL\QSERUHVR" ("\ASFAODSL\QSERUHVR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "866K"; VariantName = "[No Variations]"
+Add component: Footprint Not Found CAPC0603
+Added Component: Designator=C33(CAP 10*17)
+Added Component: Designator=C34(CAP 5*11)
+Add component: Footprint Not Found CAPC0603
+Add component: Footprint Not Found CAPC0603
+Add component: Footprint Not Found SS36
+Added Component: Designator=L3(INDUCTOR 7*7)
+Add component: Footprint Not Found RESC0603
+Added Component: Designator=U7(SOIC8)
+Added Pin To Net: NetName=NetC13_2 Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=5.4V Pin=C34-2
+Add Pin To Net: Unknown Pin: Pin C35-1
+Add Pin To Net: Unknown Pin: Pin C36-1
+Add Pin To Net: Unknown Pin: Pin D9-1
+Added Pin To Net: NetName=5.4V Pin=L3-2
+Added Pin To Net: NetName=REGIN Pin=Q1-3
+Added Pin To Net: NetName=NetC13_2 Pin=R63-2
+Add Pin To Net: Unknown Pin: Pin R73-1
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=5.4V Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=NetC13_2 Pin=U7-7
+Change Net Name : Old Net Name=5.4V New Net Name=5V
+Added Pin To Net: NetName=NetC7_1 Pin=L3-1
+Added Pin To Net: NetName=NetC7_1 Pin=U7-8
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=U7-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC35_2 Pin=R63-1
+Added Pin To Net: NetName=NetC35_2 Pin=U7-5
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC36_2 Pin=U7-2
+Added Net: Name=NetC36_2
+Add Class Member: Failed to add class member : Component C7 100nF
+Added Member To Class: ClassName=U_BMS Member=Component C33 470uF
+Added Member To Class: ClassName=U_BMS Member=Component C34 100uF 16V
+Add Class Member: Failed to add class member : Component C35 1uF
+Add Class Member: Failed to add class member : Component C36 100nF
+Add Class Member: Failed to add class member : Component D9 SS36
+Added Member To Class: ClassName=U_BMS Member=Component L3 22uH
+Add Class Member: Failed to add class member : Component R73 300K
+Added Member To Class: ClassName=U_BMS Member=Component U7 MAX5033
+Added Rule: Name=Schematic Routing Via Style_1
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Width Constraint_7

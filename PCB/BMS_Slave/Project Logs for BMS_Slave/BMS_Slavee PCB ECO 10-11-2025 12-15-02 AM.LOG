@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=FAN_PWM_1 Pin=U1-30
+Added Pin To Net: NetName=FAN_PWM_1 Pin=U1-32
+Added Pin To Net: NetName=NetU1_30 Pin=U1-30
+Added Net: Name=NetU1_30
+Added Member To Class: ClassName=U_MCU Member=Component LED2 Red
+Added Member To Class: ClassName=U_MCU Member=Component LED4 Red

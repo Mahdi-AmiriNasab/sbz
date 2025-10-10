@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC13_2 Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Change Component Footprint: Designator=C33 Old Footprint=CAP 10*17 New Footprint=CAP 5*11
+Change Component Comment : Designator=C33 Old Comment=470uF New Comment=100uF 16V
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=NetC13_2 Pin=C33-2

@@ -1,0 +1,9 @@
+Change Component Comment : Designator=C33 Old Comment=100uF 16V New Comment=10uF 100V
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED1
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED4_1
+Change Net Name : Old Net Name=NetLED4_1 New Net Name=NetLED1_1
