@@ -101,21 +101,21 @@ GenerateClassCluster=0
 DocumentUniqueId=GEFHSHQU
 
 [Document4]
-DocumentPath=relay and contactor.SchDoc
+DocumentPath=Temperature Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=5
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZWRJKCJP
+DocumentUniqueId=CQCSWSMJ
 
 [Document5]
 DocumentPath=MotherSheet.SchDoc
@@ -169,23 +169,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=Fan.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FEIIULZF
-
-[Document9]
 DocumentPath=BMS_Slavee.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGETHQSF
 
-[Document10]
+[Document9]
 DocumentPath=BMS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,8 +202,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPZFYGFQ
 
-[Document11]
-DocumentPath=..\..\..\..\..\Thesis\PCB\eLIB.PcbLib
+[Document10]
+DocumentPath=..\..\..\Thesis\PCB\eLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,8 +219,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYXPGJBR
 
-[Document12]
-DocumentPath=..\..\..\..\..\Thesis\PCB\eLIB.SchLib
+[Document11]
+DocumentPath=..\..\..\Thesis\PCB\eLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -253,8 +236,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OEIQDLAB
 
-[Document13]
-DocumentPath=..\..\..\..\..\Thesis\PCB\SINA.PcbLib
+[Document12]
+DocumentPath=..\..\..\Thesis\PCB\SINA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -270,8 +253,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITHSGEXI
 
-[Document14]
-DocumentPath=..\..\..\..\..\Thesis\PCB\SINA.SchLib
+[Document13]
+DocumentPath=..\..\..\Thesis\PCB\SINA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJYMLJQG
 
-[Document15]
+[Document14]
 DocumentPath=BMS_Slave.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=BMS_Slave.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
