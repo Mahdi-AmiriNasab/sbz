@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\sbz\PCB\BMS_Slave\BMS_Slavee.PcbDoc
-Date     : 12/1/2025
-Time     : 2:22:31 PM
+Date     : 12/2/2025
+Time     : 11:37:58 AM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -15,10 +15,10 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('GND-ISO'))
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('12V'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('12V'))
+Processing Rule : Width Constraint (Min=1mm) (Max=1mm) (Preferred=1mm) (InNet('GND-ISO'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.254mm) (Max=1mm) (Preferred=0.3mm) (All)
@@ -40,15 +40,14 @@ Processing Rule : Silk To Solder Mask (Clearance=0.003mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.001mm) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.001mm) Between Text "R55_18" (43.767mm,41.643mm) on Top Overlay And Track (44.24mm,41.3mm)(47.695mm,41.3mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.001mm) Between Text "R55_19" (51.165mm,41.643mm) on Top Overlay And Track (51.638mm,41.3mm)(55.092mm,41.3mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.001mm) Between Text "R55_20" (58.562mm,41.643mm) on Top Overlay And Track (59.036mm,41.3mm)(62.49mm,41.3mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.001mm) Between Text "R55_21" (65.96mm,41.643mm) on Top Overlay And Track (66.433mm,41.3mm)(69.888mm,41.3mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.001mm) Between Text "R55_22" (73.358mm,41.643mm) on Top Overlay And Track (73.831mm,41.3mm)(77.285mm,41.3mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+Rule Violations :5
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-Rule Violations :0
-
-Processing Rule : Room balancer4 (Bounding Region = (104.551mm, 179.705mm, 126.141mm, 197.231mm) (InComponentClass('balancer4'))
-Rule Violations :0
-
-Processing Rule : Room balancer3 (Bounding Region = (82.57mm, 179.705mm, 104.16mm, 197.231mm) (InComponentClass('balancer3'))
 Rule Violations :0
 
 Processing Rule : Room balancer15 (Bounding Region = (60.372mm, 284.861mm, 81.962mm, 302.387mm) (InComponentClass('balancer15'))
@@ -57,7 +56,19 @@ Rule Violations :0
 Processing Rule : Room balancer16 (Bounding Region = (38.354mm, 284.861mm, 59.944mm, 302.387mm) (InComponentClass('balancer16'))
 Rule Violations :0
 
+Processing Rule : Room balancer12 (Bounding Region = (126.426mm, 284.861mm, 148.016mm, 302.387mm) (InComponentClass('balancer12'))
+Rule Violations :0
+
+Processing Rule : Room balancer14 (Bounding Region = (82.39mm, 284.861mm, 103.98mm, 302.387mm) (InComponentClass('balancer14'))
+Rule Violations :0
+
+Processing Rule : Room balancer13 (Bounding Region = (104.408mm, 284.861mm, 125.998mm, 302.387mm) (InComponentClass('balancer13'))
+Rule Violations :0
+
 Processing Rule : Room balancer2 (Bounding Region = (60.589mm, 179.705mm, 82.179mm, 197.231mm) (InComponentClass('balancer2'))
+Rule Violations :0
+
+Processing Rule : Room balancer7 (Bounding Region = (170.494mm, 179.705mm, 192.084mm, 197.231mm) (InComponentClass('balancer7'))
 Rule Violations :0
 
 Processing Rule : Room balancer8 (Bounding Region = (192.475mm, 179.705mm, 214.065mm, 197.231mm) (InComponentClass('balancer8'))
@@ -66,31 +77,19 @@ Rule Violations :0
 Processing Rule : Room balancer1 (Bounding Region = (38.608mm, 179.705mm, 60.198mm, 197.231mm) (InComponentClass('balancer1'))
 Rule Violations :0
 
-Processing Rule : Room balancer7 (Bounding Region = (170.494mm, 179.705mm, 192.084mm, 197.231mm) (InComponentClass('balancer7'))
+Processing Rule : Room balancer6 (Bounding Region = (148.513mm, 179.705mm, 170.103mm, 197.231mm) (InComponentClass('balancer6'))
+Rule Violations :0
+
+Processing Rule : Room balancer3 (Bounding Region = (82.57mm, 179.705mm, 104.16mm, 197.231mm) (InComponentClass('balancer3'))
+Rule Violations :0
+
+Processing Rule : Room balancer4 (Bounding Region = (104.551mm, 179.705mm, 126.141mm, 197.231mm) (InComponentClass('balancer4'))
 Rule Violations :0
 
 Processing Rule : Room balancer5 (Bounding Region = (126.532mm, 179.705mm, 148.122mm, 197.231mm) (InComponentClass('balancer5'))
 Rule Violations :0
 
-Processing Rule : Room balancer6 (Bounding Region = (148.513mm, 179.705mm, 170.103mm, 197.231mm) (InComponentClass('balancer6'))
-Rule Violations :0
-
-Processing Rule : Room TS10 (Bounding Region = (128.152mm, 216.329mm, 136.496mm, 224.537mm) (InComponentClass('TS10'))
-Rule Violations :0
-
-Processing Rule : Room TS11 (Bounding Region = (141.496mm, 216.329mm, 149.84mm, 224.537mm) (InComponentClass('TS11'))
-Rule Violations :0
-
-Processing Rule : Room TS9 (Bounding Region = (114.808mm, 216.329mm, 123.152mm, 224.537mm) (InComponentClass('TS9'))
-Rule Violations :0
-
-Processing Rule : Room TS7 (Bounding Region = (194.871mm, 206.121mm, 203.215mm, 214.329mm) (InComponentClass('TS7'))
-Rule Violations :0
-
-Processing Rule : Room TS8 (Bounding Region = (208.215mm, 206.121mm, 216.559mm, 214.329mm) (InComponentClass('TS8'))
-Rule Violations :0
-
-Processing Rule : Room TS12 (Bounding Region = (154.84mm, 216.329mm, 163.184mm, 224.537mm) (InComponentClass('TS12'))
+Processing Rule : Room TS15 (Bounding Region = (194.871mm, 216.329mm, 203.215mm, 224.537mm) (InComponentClass('TS15'))
 Rule Violations :0
 
 Processing Rule : Room TS16 (Bounding Region = (208.215mm, 216.329mm, 216.559mm, 224.537mm) (InComponentClass('TS16'))
@@ -99,7 +98,7 @@ Rule Violations :0
 Processing Rule : Room TS1 (Bounding Region = (114.808mm, 206.121mm, 123.152mm, 214.329mm) (InComponentClass('TS1'))
 Rule Violations :0
 
-Processing Rule : Room TS15 (Bounding Region = (194.871mm, 216.329mm, 203.215mm, 224.537mm) (InComponentClass('TS15'))
+Processing Rule : Room TS12 (Bounding Region = (154.84mm, 216.329mm, 163.184mm, 224.537mm) (InComponentClass('TS12'))
 Rule Violations :0
 
 Processing Rule : Room TS13 (Bounding Region = (168.184mm, 216.329mm, 176.528mm, 224.537mm) (InComponentClass('TS13'))
@@ -108,37 +107,61 @@ Rule Violations :0
 Processing Rule : Room TS14 (Bounding Region = (181.528mm, 216.329mm, 189.871mm, 224.537mm) (InComponentClass('TS14'))
 Rule Violations :0
 
-Processing Rule : Room balancer9 (Bounding Region = (192.48mm, 284.861mm, 214.07mm, 302.387mm) (InComponentClass('balancer9'))
+Processing Rule : Room TS19 (Bounding Region = (70.421mm, 210.82mm, 76.819mm, 220.942mm) (InComponentClass('TS19'))
 Rule Violations :0
 
-Processing Rule : Room balancer13 (Bounding Region = (104.408mm, 284.861mm, 125.998mm, 302.387mm) (InComponentClass('balancer13'))
+Processing Rule : Room TS18 (Bounding Region = (63.024mm, 210.82mm, 69.421mm, 220.942mm) (InComponentClass('TS18'))
 Rule Violations :0
 
-Processing Rule : Room balancer10 (Bounding Region = (170.462mm, 284.861mm, 192.052mm, 302.387mm) (InComponentClass('balancer10'))
+Processing Rule : Room TS17 (Bounding Region = (55.626mm, 210.82mm, 62.024mm, 220.942mm) (InComponentClass('TS17'))
 Rule Violations :0
 
-Processing Rule : Room balancer12 (Bounding Region = (126.426mm, 284.861mm, 148.016mm, 302.387mm) (InComponentClass('balancer12'))
+Processing Rule : Room TS22 (Bounding Region = (92.614mm, 210.82mm, 99.012mm, 220.942mm) (InComponentClass('TS22'))
+Rule Violations :0
+
+Processing Rule : Room TS21 (Bounding Region = (85.216mm, 210.82mm, 91.614mm, 220.942mm) (InComponentClass('TS21'))
+Rule Violations :0
+
+Processing Rule : Room TS20 (Bounding Region = (77.819mm, 210.82mm, 84.216mm, 220.942mm) (InComponentClass('TS20'))
+Rule Violations :0
+
+Processing Rule : Room TS11 (Bounding Region = (141.496mm, 216.329mm, 149.84mm, 224.537mm) (InComponentClass('TS11'))
+Rule Violations :0
+
+Processing Rule : Room TS3 (Bounding Region = (141.496mm, 206.121mm, 149.84mm, 214.329mm) (InComponentClass('TS3'))
+Rule Violations :0
+
+Processing Rule : Room TS4 (Bounding Region = (154.84mm, 206.121mm, 163.184mm, 214.329mm) (InComponentClass('TS4'))
 Rule Violations :0
 
 Processing Rule : Room balancer11 (Bounding Region = (148.444mm, 284.861mm, 170.034mm, 302.387mm) (InComponentClass('balancer11'))
 Rule Violations :0
 
-Processing Rule : Room balancer14 (Bounding Region = (82.39mm, 284.861mm, 103.98mm, 302.387mm) (InComponentClass('balancer14'))
+Processing Rule : Room balancer10 (Bounding Region = (170.462mm, 284.861mm, 192.052mm, 302.387mm) (InComponentClass('balancer10'))
+Rule Violations :0
+
+Processing Rule : Room balancer9 (Bounding Region = (192.48mm, 284.861mm, 214.07mm, 302.387mm) (InComponentClass('balancer9'))
+Rule Violations :0
+
+Processing Rule : Room TS2 (Bounding Region = (128.152mm, 206.121mm, 136.496mm, 214.329mm) (InComponentClass('TS2'))
+Rule Violations :0
+
+Processing Rule : Room TS8 (Bounding Region = (208.215mm, 206.121mm, 216.559mm, 214.329mm) (InComponentClass('TS8'))
+Rule Violations :0
+
+Processing Rule : Room TS9 (Bounding Region = (114.808mm, 216.329mm, 123.152mm, 224.537mm) (InComponentClass('TS9'))
+Rule Violations :0
+
+Processing Rule : Room TS10 (Bounding Region = (128.152mm, 216.329mm, 136.496mm, 224.537mm) (InComponentClass('TS10'))
+Rule Violations :0
+
+Processing Rule : Room TS7 (Bounding Region = (194.871mm, 206.121mm, 203.215mm, 214.329mm) (InComponentClass('TS7'))
 Rule Violations :0
 
 Processing Rule : Room TS5 (Bounding Region = (168.184mm, 206.121mm, 176.528mm, 214.329mm) (InComponentClass('TS5'))
 Rule Violations :0
 
 Processing Rule : Room TS6 (Bounding Region = (181.528mm, 206.121mm, 189.871mm, 214.329mm) (InComponentClass('TS6'))
-Rule Violations :0
-
-Processing Rule : Room TS4 (Bounding Region = (154.84mm, 206.121mm, 163.184mm, 214.329mm) (InComponentClass('TS4'))
-Rule Violations :0
-
-Processing Rule : Room TS2 (Bounding Region = (128.152mm, 206.121mm, 136.496mm, 214.329mm) (InComponentClass('TS2'))
-Rule Violations :0
-
-Processing Rule : Room TS3 (Bounding Region = (141.496mm, 206.121mm, 149.84mm, 214.329mm) (InComponentClass('TS3'))
 Rule Violations :0
 
 Processing Rule : Component Clearance Constraint ( Horizontal Gap = 0.254mm, Vertical Gap = 0.254mm ) (All),(All) 
@@ -148,6 +171,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 5
 Waived Violations : 0
 Time Elapsed        : 00:00:01
