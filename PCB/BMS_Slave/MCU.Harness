@@ -1,1 +1,1 @@
-CAN=RXD,TXD
+COMM.=rsTRen,rsTXT,rsRXT,RXD,TXD

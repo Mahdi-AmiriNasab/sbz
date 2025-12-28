@@ -203,7 +203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UPZFYGFQ
 
 [Document10]
-DocumentPath=..\..\..\Thesis\PCB\eLIB.PcbLib
+DocumentPath=C:\Users\Mahdi\OneDrive\Libs\eLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FYXPGJBR
 
 [Document11]
-DocumentPath=..\..\..\Thesis\PCB\eLIB.SchLib
+DocumentPath=C:\Users\Mahdi\OneDrive\Libs\eLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -234,10 +234,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OEIQDLAB
+DocumentUniqueId=
 
 [Document12]
-DocumentPath=..\..\..\Thesis\PCB\SINA.PcbLib
+DocumentPath=C:\Users\Mahdi\OneDrive\Libs\SINA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -254,7 +254,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ITHSGEXI
 
 [Document13]
-DocumentPath=..\..\..\Thesis\PCB\SINA.SchLib
+DocumentPath=C:\Users\Mahdi\OneDrive\Libs\SINA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
